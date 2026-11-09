@@ -4,4 +4,6 @@ __pycache__/
 *.db
 .mypy_cache/
 .ruff_cache/
-.pytest_cache/.idea/
+.pytest_cache/
+.idea/
+*.egg-info/
