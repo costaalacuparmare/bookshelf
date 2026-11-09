@@ -1,6 +1,6 @@
 # BookShelf API
 
-A book catalog and review service built with FastAPI and SQLite. This repo is the running project for the [Production Systems Engineering](https://edi33416.github.io/prod-eng/) course. It is built up lab by lab, and each lab (one part of the course) is split into chapters. Lab 1 (Part I, Development Foundations) is in progress and covers project setup, tooling and workflow, and a working API.
+A book catalog and review service built with FastAPI and SQLite. This repo is the running project for the [Production Systems Engineering](https://edi33416.github.io/prod-eng/) course. It is built up lab by lab, and each lab (one part of the course) is split into chapters. Lab 1 (Part I, Development Foundations) is done and covers project setup, tooling and workflow, and a working API.
 
 ## Requirements
 
@@ -89,9 +89,9 @@ requirements*.lock Pinned dependency versions
 
 ## Lab progress
 
-### Lab 1 (Part I): Development Foundations (in progress)
+### Lab 1 (Part I): Development Foundations (done)
 
-Done: every chapter except the exercise in Git Workflow for Teams (feature branch, PR, squash merge).
+All chapters are complete.
 
 #### Python Project Structure
 
@@ -124,7 +124,7 @@ Done: every chapter except the exercise in Git Workflow for Teams (feature branc
 - Branch prefixes: `feature/`, `fix/`, `chore/`, `docs/`, `refactor/`.
 - Conventional Commits, such as `feat(books): add search endpoint`.
 - Every change goes through a PR, squash-merged.
-- Still to do: the feature-branch and PR exercise.
+- Did the exercise: pushed `feature/bookshelf-api`, opened a PR and squash-merged it into `main`.
 
 #### Building the BookShelf API
 
